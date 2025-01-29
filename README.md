@@ -1,6 +1,9 @@
 # Black-Scholes Implied Volatility Calculator
 
 This project implements a Black-Scholes implied volatility calculator with a web-based GUI using Streamlit. It features real-time option data fetching, multiple calculation methods, and interactive visualizations.
+<span style="color: red;">You could readily access the application on internet using this link.</span>  
+<span style="color: blue;"><a href="https://qfc-project-2-sakshamhooda-varunsaxena.streamlit.app/">Click here to access</a></span>
+
 
 ## Features
 
